@@ -1,6 +1,6 @@
-shell_vars:
+vars:
   extension: .sh
-  output: scripts
+  output: includes
 default:
   extension: .sh
   output: scripts
