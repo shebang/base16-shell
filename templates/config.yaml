@@ -1,3 +1,6 @@
-default: 
-    extension: .sh
-    output: scripts
+shell_vars:
+  extension: .sh
+  output: scripts
+default:
+  extension: .sh
+  output: scripts
